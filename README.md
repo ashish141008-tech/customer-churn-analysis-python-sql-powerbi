@@ -3,14 +3,14 @@
 This project focuses on analyzing customer churn behavior in a telecom dataset to identify why customers leave, which customer segments are most at risk, and what business actions can reduce churn.
 
 The project follows a complete end-to-end data analytics workflow:
-
+---
 ### Tools & Technologies Used
 
 * Python (Pandas, Matplotlib, Seaborn)
 * SQL (MySQL)
 * Power BI
 * Excel / CSV
-
+---
 ### Project Workflow
 
 **1. Data Cleaning & Preprocessing (Python)**
@@ -19,14 +19,14 @@ The project follows a complete end-to-end data analytics workflow:
 * Removed unnecessary columns
 * Standardized categorical values
 * Created tenure groups for segmentation
-
+---
 **2. Exploratory Data Analysis (Python)**
 
 * Analyzed churn distribution
 * Studied customer demographics
 * Checked correlations between tenure, monthly charges, and total charges
 * Identified patterns in customer behavior
-
+---
 **3. Business Analysis (SQL)**
 Solved multiple business questions such as:
 
@@ -37,7 +37,7 @@ Solved multiple business questions such as:
 * Internet service churn analysis
 * Partner and dependent behavior analysis
 * High-risk customer segment identification
-
+---
 **4. Dashboarding (Power BI)**
 Built an interactive dashboard across 4 pages:
 
@@ -45,7 +45,7 @@ Built an interactive dashboard across 4 pages:
 * Customer Demographics & Behavior
 * Risk Segments & Retention Strategy
 * Business Recommendations & Strategic Insights
-
+---
 ### Key Insights
 
 * Overall churn rate is **26.58%**
@@ -55,7 +55,7 @@ Built an interactive dashboard across 4 pages:
 * New customers are more likely to leave
 * Revenue lost due to churn is **2.86M**
 * Highest risk segment: **Month-to-month + Electronic Check**
-
+---
 ### Business Recommendations
 
 * Convert month-to-month customers into yearly contracts
