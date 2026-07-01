@@ -41,7 +41,7 @@ Solved multiple business questions such as:
 **4. Dashboarding (Power BI)**
 Built an interactive dashboard across 4 pages:
 
-* Customer Churn Overview
+* Customer Churn Overview-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Customer%20Churn%20Overview.png)
 * Customer Demographics & Behavior
 * Risk Segments & Retention Strategy
 * Business Recommendations & Strategic Insights
