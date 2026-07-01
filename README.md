@@ -42,7 +42,7 @@ Solved multiple business questions such as:
 Built an interactive dashboard across 4 pages:
 
 * Customer Churn Overview-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Customer%20Churn%20Overview.png)
-* Customer Demographics & Behavior
+* Customer Demographics & Behavior-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Customer%20Demographics%20%26%20Behavior.png)
 * Risk Segments & Retention Strategy
 * Business Recommendations & Strategic Insights
 ---
