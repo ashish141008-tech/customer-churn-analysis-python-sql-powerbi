@@ -44,7 +44,7 @@ Built an interactive dashboard across 4 pages:
 * Customer Churn Overview-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Customer%20Churn%20Overview.png)
 * Customer Demographics & Behavior-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Customer%20Demographics%20%26%20Behavior.png)
 * Risk Segments & Retention Strategy-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Risk%20Segments%20%26%20Retention%20Strategy.png)
-* Business Recommendations & Strategic Insights
+* Business Recommendations & Strategic Insights-(https://github.com/ashish141008-tech/customer-churn-analysis-python-sql-powerbi/blob/main/Business%20Recommendations%20%26%20Strategic%20Insights.png)
 ---
 ### Key Insights
 
